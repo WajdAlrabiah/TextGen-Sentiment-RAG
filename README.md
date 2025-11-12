@@ -5,7 +5,7 @@ It showcases three main NLP tasks using **Hugging Face Transformers**, **Sentenc
 
 ---
 
-## 🧩 **Contents**
+## **Contents**
 
 1. **Sentiment Analysis** — Classifies the sentiment of text reviews (Positive, Negative, Neutral).  
 2. **Retrieval-Augmented Generation (RAG)** — Retrieves the most relevant documents based on semantic similarity.  
